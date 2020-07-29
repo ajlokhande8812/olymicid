@@ -25,6 +25,8 @@ public class BaseClass {
 		return pr;
 
 	}
+	
+	
 
 	@BeforeSuite
 	public void setPropery() {
