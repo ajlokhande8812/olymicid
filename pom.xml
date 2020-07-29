@@ -15,6 +15,27 @@
   </properties>
 
   <dependencies>
+  
+  
+  <!-- https://mvnrepository.com/artifact/org.sonatype.aether/aether-spi -->
+<dependency>
+    <groupId>org.sonatype.aether</groupId>
+    <artifactId>aether-spi</artifactId>
+    <version>1.7</version>
+</dependency>
+  <!-- https://mvnrepository.com/artifact/org.sonatype.aether/aether-api -->
+<dependency>
+    <groupId>org.sonatype.aether</groupId>
+    <artifactId>aether-api</artifactId>
+    <version>1.7</version>
+</dependency>
+  <!-- https://mvnrepository.com/artifact/org.sonatype.aether/aether-util -->
+<dependency>
+    <groupId>org.sonatype.aether</groupId>
+    <artifactId>aether-util</artifactId>
+    <version>1.7</version>
+</dependency>
+  
   <!-- https://mvnrepository.com/artifact/org.codehaus.plexus/plexus-component-annotations -->
 <dependency>
     <groupId>org.codehaus.plexus</groupId>
