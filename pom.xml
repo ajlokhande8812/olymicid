@@ -15,6 +15,24 @@
   </properties>
 
   <dependencies>
+  <!-- https://mvnrepository.com/artifact/org.codehaus.plexus/plexus-component-annotations -->
+<dependency>
+    <groupId>org.codehaus.plexus</groupId>
+    <artifactId>plexus-component-annotations</artifactId>
+    <version>1.7.1</version>
+</dependency>
+  <!-- https://mvnrepository.com/artifact/org.codehaus.plexus/plexus-classworlds -->
+<dependency>
+    <groupId>org.codehaus.plexus</groupId>
+    <artifactId>plexus-classworlds</artifactId>
+    <version>2.2.3</version>
+</dependency>
+  <!-- https://mvnrepository.com/artifact/org.codehaus.plexus/plexus-interpolation -->
+<dependency>
+    <groupId>org.codehaus.plexus</groupId>
+    <artifactId>plexus-interpolation</artifactId>
+    <version>1.14</version>
+</dependency>
   
   
   <!-- https://mvnrepository.com/artifact/org.apache.maven.shared/maven-shared-incremental -->
