@@ -15,8 +15,15 @@
   </properties>
 
   <dependencies>
+<!-- https://mvnrepository.com/artifact/org.codehaus.plexus/plexus-compiler-javac -->
+<dependency>
+    <groupId>org.codehaus.plexus</groupId>
+    <artifactId>plexus-compiler-javac</artifactId>
+    <version>2.8.4</version>
+</dependency>
 
    <dependency> 
+   
 			<groupId>org.testng</groupId>
 			<artifactId>testng</artifactId>
 			<version>6.14.3</version>
