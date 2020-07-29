@@ -15,6 +15,30 @@
   </properties>
 
   <dependencies>
+  
+  
+  <!-- https://mvnrepository.com/artifact/org.apache.maven.shared/maven-shared-incremental -->
+<dependency>
+    <groupId>org.apache.maven.shared</groupId>
+    <artifactId>maven-shared-incremental</artifactId>
+    <version>1.1</version>
+</dependency>
+  
+  <!-- https://mvnrepository.com/artifact/commons-io/commons-io -->
+<dependency>
+    <groupId>commons-io</groupId>
+    <artifactId>commons-io</artifactId>
+    <version>2.5</version>
+</dependency>
+  
+  
+  <!-- https://mvnrepository.com/artifact/org.apache.maven.shared/maven-shared-utils -->
+<dependency>
+    <groupId>org.apache.maven.shared</groupId>
+    <artifactId>maven-shared-utils</artifactId>
+    <version>3.2.1</version>
+</dependency>
+  
   <!-- https://mvnrepository.com/artifact/org.codehaus.plexus/plexus-compiler-manager -->
 <dependency>
     <groupId>org.codehaus.plexus</groupId>
