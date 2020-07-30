@@ -39,8 +39,8 @@
     <artifactId>maven-compiler-plugin</artifactId>
     <version>3.6.2</version>
             <configuration>
-<!--             <fork>true</fork>  -->
-<!--                  <executable>C:\Program Files\Java\jdk1.8.0_131\bin\javac.exe</executable> -->
+             <fork>true</fork>  
+                 <executable>C:\Program Files\Java\jdk1.8.0_131\bin\javac.exe</executable> 
 <!-- 		     <testSourceDirectory>/src/test/java</testSourceDirectory> -->
             </configuration>
         </plugin>
