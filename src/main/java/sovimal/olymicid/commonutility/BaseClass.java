@@ -13,8 +13,8 @@ import org.testng.annotations.BeforeMethod;
 import org.testng.annotations.BeforeSuite;
 
 public class BaseClass {
-	public static Properties pr;
-	public static String path = "G:\\Olycimid\\olymicid\\src\\main\\resource1\\config.properties";
+	public static Properties pr=null;
+	public static String path = "G:\\Olycimid\\olymicid\\resources\\config.properties";
 	public static WebDriver driver = null;
 
 	public static Properties prop() throws IOException {
@@ -32,7 +32,7 @@ public class BaseClass {
 	public void setPropery() {
 
 		try {
-			System.setProperty("webdriver.chrome.driver", "G:\\Olycimid\\olymicid\\src\\main\\drivers\\chromedriver.exe");
+			System.setProperty("webdriver.chrome.driver", "G:\\Olycimid\\olymicid\\drivers\\chromedriver.exe");
 			//System.setProperty("webdriver.gecko.driver", "G:\\Olycimid\\olymicid\\drivers\\geckodriver.exe");
 
 		} catch (Exception e) {

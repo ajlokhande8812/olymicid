@@ -2,28 +2,28 @@
 <testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
   <reporter-output>
   </reporter-output>
-  <suite name="homepage" duration-ms="135384" started-at="2020-07-30T00:15:12Z" finished-at="2020-07-30T00:17:28Z">
+  <suite name="homepage" duration-ms="30070" started-at="2020-07-30T00:57:50Z" finished-at="2020-07-30T00:58:20Z">
     <groups>
     </groups>
-    <test name="UICheck" duration-ms="135384" started-at="2020-07-30T00:15:12Z" finished-at="2020-07-30T00:17:28Z">
+    <test name="UICheck" duration-ms="30070" started-at="2020-07-30T00:57:50Z" finished-at="2020-07-30T00:58:20Z">
       <class name="sovimal.olymicid.tests.Olymicid_HomePageTest">
-        <test-method status="PASS" signature="setPropery()[pri:0, instance:sovimal.olymicid.tests.Olymicid_HomePageTest@5e3a8624]" name="setPropery" is-config="true" duration-ms="186" started-at="2020-07-30T00:15:12Z" finished-at="2020-07-30T00:15:12Z">
+        <test-method status="PASS" signature="setPropery()[pri:0, instance:sovimal.olymicid.tests.Olymicid_HomePageTest@5e3a8624]" name="setPropery" is-config="true" duration-ms="52" started-at="2020-07-30T00:57:50Z" finished-at="2020-07-30T00:57:50Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- setPropery -->
-        <test-method status="PASS" signature="gotoUrl()[pri:0, instance:sovimal.olymicid.tests.Olymicid_HomePageTest@5e3a8624]" name="gotoUrl" is-config="true" duration-ms="117425" started-at="2020-07-30T00:15:12Z" finished-at="2020-07-30T00:17:10Z">
+        <test-method status="PASS" signature="gotoUrl()[pri:0, instance:sovimal.olymicid.tests.Olymicid_HomePageTest@5e3a8624]" name="gotoUrl" is-config="true" duration-ms="27037" started-at="2020-07-30T00:57:50Z" finished-at="2020-07-30T00:58:17Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- gotoUrl -->
-        <test-method status="PASS" signature="verifyEmailID()[pri:0, instance:sovimal.olymicid.tests.Olymicid_HomePageTest@5e3a8624]" name="verifyEmailID" duration-ms="4143" started-at="2020-07-30T00:17:10Z" finished-at="2020-07-30T00:17:14Z">
+        <test-method status="PASS" signature="verifyEmailID()[pri:0, instance:sovimal.olymicid.tests.Olymicid_HomePageTest@5e3a8624]" name="verifyEmailID" duration-ms="335" started-at="2020-07-30T00:58:17Z" finished-at="2020-07-30T00:58:18Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- verifyEmailID -->
-        <test-method status="PASS" signature="browserName()[pri:0, instance:sovimal.olymicid.tests.Olymicid_HomePageTest@5e3a8624]" name="browserName" is-config="true" duration-ms="13682" started-at="2020-07-30T00:17:14Z" finished-at="2020-07-30T00:17:28Z">
+        <test-method status="PASS" signature="browserName()[pri:0, instance:sovimal.olymicid.tests.Olymicid_HomePageTest@5e3a8624]" name="browserName" is-config="true" duration-ms="2641" started-at="2020-07-30T00:58:18Z" finished-at="2020-07-30T00:58:20Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- browserName -->
-        <test-method status="PASS" signature="killinstance()[pri:0, instance:sovimal.olymicid.tests.Olymicid_HomePageTest@5e3a8624]" name="killinstance" is-config="true" duration-ms="1950" started-at="2020-07-30T00:17:29Z" finished-at="2020-07-30T00:17:31Z">
+        <test-method status="PASS" signature="killinstance()[pri:0, instance:sovimal.olymicid.tests.Olymicid_HomePageTest@5e3a8624]" name="killinstance" is-config="true" duration-ms="1540" started-at="2020-07-30T00:58:20Z" finished-at="2020-07-30T00:58:22Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- killinstance -->
